@@ -1,0 +1,5 @@
+- Printing output in a Java program can be done using the following three commands: System.out.print();, System.out.println(), and System.out.printf()
+- The Scanner class is built into Java and is useful for reading input from different sources including user input, and text files.
+- FileOutputStream is used to output data from a program into a file on your computer, and FileInputStream is used to read from a file. They both read/write bytes, and have built-in functions to convert bytes to different variables.
+- IOExceptions are exceptions related to input or output that a program may encounter. They can be handled by a programmer using try-catch blocks.
+- Java programs must initially be compiled into byte format before they can be run using a terminal or command prompt. When running a Java program, a user can pass in multiple arguments.
