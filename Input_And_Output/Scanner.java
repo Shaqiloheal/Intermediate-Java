@@ -1,3 +1,5 @@
+package Input_And_Output;
+
 import java.util.Scanner;
 
 // Scanner class that reads user's input.
