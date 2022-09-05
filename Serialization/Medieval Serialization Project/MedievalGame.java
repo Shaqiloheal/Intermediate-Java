@@ -1,5 +1,3 @@
-package Serialization.Medieval Serialization Project;
-
 import java.util.Scanner;
 import java.util.Objects;
 import java.io.FileOutputStream;

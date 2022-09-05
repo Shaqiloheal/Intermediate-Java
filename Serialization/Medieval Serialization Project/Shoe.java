@@ -1,5 +1,3 @@
-package Serialization.Medieval Serialization Project;
-
 import java.io.Serializable;
 
 public class Shoe extends Armour implements Serializable {

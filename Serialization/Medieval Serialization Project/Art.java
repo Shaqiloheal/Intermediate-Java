@@ -1,5 +1,3 @@
-package Serialization.Medieval Serialization Project;
-
 public class Art {
     public static void homeScreen() {
       System.out.println("\n\n");
