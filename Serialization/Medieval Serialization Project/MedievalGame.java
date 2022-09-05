@@ -80,7 +80,7 @@ public class MedievalGame {
   }
 }
 
-    return new Player(answer);
+    return player;
   } // End of start
 
   private void save() {
